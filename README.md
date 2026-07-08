@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ilycode1/ilycode1/refs/heads/main/favicon.png">
-    <img src="https://raw.githubusercontent.com/ilycode1/ilycode1/refs/heads/main/favicon.png" width="50%" alt="ILY Code Banner">
+    <img src="https://raw.githubusercontent.com/ilycode1/ilycode1/refs/heads/main/favicon.png" width="100%" alt="ILY Code Banner">
   </picture>
 </p>
 
